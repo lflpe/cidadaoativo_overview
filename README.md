@@ -32,6 +32,13 @@ The application is intended for **municipal governments in the state of Pernambu
 The project has not been publicly released yet.  
 Access, pilot programs, and partnerships are evaluated on a case-by-case basis with interested municipalities.
 
+### Contact
+
+For institutional contact, partnerships, or additional information:
+
+- **LinkedIn:** https://www.linkedin.com/in/lflpe/  
+- **Email:** luisflpebdasilva@gmail.com  
+
 ---
 
 ## Português
@@ -65,3 +72,10 @@ O aplicativo é destinado a **prefeituras e administrações municipais do estad
 
 O projeto ainda não possui lançamento público.  
 Parcerias, testes piloto e disponibilização para uso institucional são avaliados de forma individual junto às prefeituras interessadas.
+
+### Contato
+
+Para contato institucional, parcerias ou mais informações:
+
+- **LinkedIn:** https://www.linkedin.com/in/lflpe/  
+- **E-mail:** luisflpebdasilva@gmail.com  
